@@ -1,0 +1,13 @@
+#+title Learn Transient by Example
+
+* Overview
+Learn transient by example
+
+* Transient API Example (Alternative Bindings Part 1)
+
+* Reference
+- https://www.reddit.com/r/emacs/comments/m518xh/transient_api_example_alternative_bindings_part_1/
+- https://www.reddit.com/r/emacs/comments/f3o0v8/anyone_have_good_examples_for_transient/
+- https://github.com/magit/magit/blob/master/lisp/magit.el
+- https://github.com/magit/magit/blob/master/lisp/magit-transient.el
+- https://magit.vc/manual/transient.html#Transient-State
